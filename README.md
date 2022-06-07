@@ -31,8 +31,7 @@ This section should list any major frameworks/libraries used to bootstrap your p
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Below are the Prerequisites and Install instructions
 
 ### Prerequisites
 
@@ -41,7 +40,7 @@ Requires latest Golang version and MS Sql server
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+Below are the steps to run OpenAuthD by building from source. Development of setup file is in progress.
 
 1. Clone the repo
 2. Setup the database server and tables
