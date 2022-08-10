@@ -37,7 +37,7 @@ func HandleResourceOwnerPasswordCredGrant(resp http.ResponseWriter, req *http.Re
 
 		} else {
 			resp.WriteHeader(http.StatusInternalServerError)
-			//resp.Write([]byte("Error Occured " + err.Error()))
+			
 			if f, ok := resp.(http.Flusher); ok {
 				f.Flush()
 			}
